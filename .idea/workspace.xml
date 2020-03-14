@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ba25e06-edad-4de3-b9d8-8c14c456e2d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/$success" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/$user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/'required" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/'required'" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accessToken" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all()" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errors()" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/false" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json([" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/true" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +161,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583808219137</updated>
       <workItem from="1583808223928" duration="3868000" />
-      <workItem from="1584216328427" duration="981000" />
+      <workItem from="1584216328427" duration="2541000" />
     </task>
     <servers />
   </component>
